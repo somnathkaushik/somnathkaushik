@@ -1,6 +1,9 @@
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /> -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=somnathkaushik.somnathkaushik" />
 
+
+<img src="https://media.licdn.com/dms/image/D4D16AQGFoNNc8K7i0g/profile-displaybackgroundimage-shrink_350_1400/0/1689099337906?e=1715212800&v=beta&t=NgeYc6eWIebZQnTT_QkGu_RIjOq3FSp0SFJiPemxbSk" />
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Somnath+Kaushik!;" />
 </h1>

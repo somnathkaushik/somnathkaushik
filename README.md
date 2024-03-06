@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=somnathkaushik.somnathkaushik" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Somnath+Kaushik!;" />
@@ -13,7 +13,6 @@
  🔭 I’m currently working on **Front-end  development** and exploring the world of **Backend Development**
  
  🌱 I’m currently learning **Node JS **, ** Express **, ** React ** , ** MongoDB **
-
 
  </div>
  
@@ -32,12 +31,11 @@
 
  <hr/>
 
- ###
+###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
-
 
  <hr/>
  
@@ -63,14 +61,12 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-
 <br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=somnathkaushik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=somnathkaushik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
 
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-somnathkaushik.vercel.app/?user=somnathkaushik&count_private=true&theme=react&border_radius=10" alt="streak stats"/>

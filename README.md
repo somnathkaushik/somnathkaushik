@@ -106,9 +106,9 @@
 <h3 align="Center">Streaks</h3>
 <div align="center">
 
-  <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=somnathkaushik&theme=dracula&hide_border=false" height="180em"/>
+  <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=somnathkaushik&theme=dracula&hide_border=false" height="180em"/>
   
-  <img width=390 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somnathkaushik&theme=dracula&show_icons=true&hide_border=false&layout=compact" height="180em" />
+  <img width=390 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somnathkaushik&theme=dracula&show_icons=true&hide_border=false&layout=compact" height="180em" />
 
 </div>
 

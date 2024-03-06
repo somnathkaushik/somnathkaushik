@@ -5,6 +5,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Somnath+Kaushik!;" />
 </h1>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="center">A passionate software developer from Mathura, UP (India)</h3>
 
 <br/>
@@ -30,7 +32,7 @@
   </a>
 </div>
 
- <hr/>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
  
@@ -43,7 +45,7 @@
 </div>
 
 <br/>
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -54,11 +56,17 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <br>
+
+<div align="center">
+  <img width=390 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=somnathkaushik&theme=great_gatsby" alt="readme stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somnathkaushik&theme=great_gatsby&show_icons=true&hide_border=false&count_private=false" height="150" alt="stats graph"  />
+  
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=somnathkaushik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -75,7 +83,7 @@
 
 <br/><br/>
 
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 

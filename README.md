@@ -70,7 +70,7 @@
   <img width=390 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=somnathkaushik&theme=2077" height="180em" />
   <img width=390 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=somnathkaushik&theme=2077&utcOffset=8" height="180em" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=somnathkaushik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"  height="180em" />
+  <img align="left" width=350 src="https://github-readme-stats.vercel.app/api?username=somnathkaushik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"  height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somnathkaushik&theme=2077&show_icons=true&hide_border=false&count_private=false" height="180em"   />
 
 </div>

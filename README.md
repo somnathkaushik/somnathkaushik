@@ -63,23 +63,24 @@
 <br>
 
 <div align="center">
-  <img width=390 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=somnathkaushik&theme=great_gatsby" alt="readme stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somnathkaushik&theme=great_gatsby&show_icons=true&hide_border=false&count_private=false" height="150" alt="stats graph"  />
+<a href="https://github.com/somnathkaushik">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=somnathkaushik&theme=great_gatsby" alt="readme stats" height="180em" />
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somnathkaushik&theme=great_gatsby&show_icons=true&hide_border=false&count_private=false" height="180em" alt="stats graph"  />
   
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=somnathkaushik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=somnathkaushik&theme=great-gatsby&show_icons=true&hide_border=false&count_private=false" alt="readme stats" />
-</div>
 
-<br>
-
-<div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=somnathkaushik&theme=great-gatsby&hide_border=false" alt="streak stats"/>
   
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somnathkaushik&theme=great-gatsby&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
+
+  <img width=390 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=somnathkaushik&theme=great_gatsby" alt="top langs" />
+
+  <img width=390 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=somnathkaushik&theme=great_gatsby" alt="top langs" />
+
+  <img width=390 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=somnathkaushik&theme=great_gatsby&utcOffset=8" alt="top langs" />
 </div>
+
 
 <br/><br/>
 

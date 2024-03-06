@@ -63,6 +63,7 @@
 <br>
 
 <div align="center">
+
 <a href="https://github.com/somnathkaushik">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=somnathkaushik&theme=2077"  height="180em" />
     <img width=390 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=somnathkaushik&theme=2077" height="180em" />
@@ -70,10 +71,12 @@
   <img width=390 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=somnathkaushik&theme=2077" height="180em" />
   <img width=390 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=somnathkaushik&theme=2077&utcOffset=8" height="180em" />
 
-  <img align="left" width=300 src="https://github-readme-stats.vercel.app/api?username=somnathkaushik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"  height="180em" />
+  <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=somnathkaushik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"  height="180em" />
   <img align="rigth" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somnathkaushik&theme=2077&show_icons=true&hide_border=false&count_private=false" height="180em"   />
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="Center">Streaks</h3>
 <div align="center">
@@ -84,6 +87,7 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <br/><br/>
@@ -92,8 +96,27 @@
 
 <br/>
 
+<h2 align="center">⚡Activity Graph </h2>
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=somnathkaushik&bg_color=221d35&color=9f5dee&line=690763&point=24b742&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
+<br clear="both">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
 <div align="center">
+
+<h3 align="center">✍️ Random Dev Quote</h3>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <a href='#' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <br/>

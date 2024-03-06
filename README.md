@@ -138,7 +138,8 @@
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-<a href='#' target='_blank'><img height='64' style='border:0px;height:64px;' src="./qr.jpg" border='0' alt='Buy Me a Coffee at ko-fi.com' /> Buy Me a Coffee </a>
+<img height='64' style='border:0px;height:64px;' src="./qr.jpg" border='0' alt='Buy Me a Coffee at ko-fi.com' /> 
+Buy Me a Coffee 
 </div>
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->

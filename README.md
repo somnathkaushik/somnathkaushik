@@ -58,28 +58,32 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Statistics ⚡</h2>
 
 <br>
 
 <div align="center">
 <a href="https://github.com/somnathkaushik">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=somnathkaushik&theme=great_gatsby" alt="readme stats" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=somnathkaushik&theme=2077"  height="180em" />
+    <img width=390 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=somnathkaushik&theme=2077" height="180em" />
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somnathkaushik&theme=great_gatsby&show_icons=true&hide_border=false&count_private=false" height="180em" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=somnathkaushik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img width=390 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=somnathkaushik&theme=2077" height="180em" />
+  <img width=390 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=somnathkaushik&theme=2077&utcOffset=8" height="180em" />
 
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=somnathkaushik&theme=great-gatsby&hide_border=false" alt="streak stats"/>
-  
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somnathkaushik&theme=great-gatsby&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=somnathkaushik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=2077&locale=en&hide_border=false"  height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somnathkaushik&theme=2077&show_icons=true&hide_border=false&count_private=false" height="180em"   />
 
-  <img width=390 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=somnathkaushik&theme=great_gatsby" alt="top langs" />
-
-  <img width=390 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=somnathkaushik&theme=great_gatsby" alt="top langs" />
-
-  <img width=390 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=somnathkaushik&theme=great_gatsby&utcOffset=8" alt="top langs" />
 </div>
+
+<h3 align="Center">Streaks</h3>
+<div align="center">
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somnathkaushik&theme=2077by&hide_border=false" height="180em"/>
+  
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somnathkaushik&theme=2077&show_icons=true&hide_border=false&layout=compact" height="180em" />
+
+</div>
+
 
 
 <br/><br/>

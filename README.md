@@ -35,7 +35,7 @@
 <h3 align="center">👩🏻‍💻 Visionary Dreamer: </h3> With eyes fixed on the horizon, I dream of a world where technology is not just a tool, but a force for positive change and transformation. Together, let's embark on this grand adventure and make our dreams a reality! 🌈✨
 <hr/>
  </div>
- <br/><br/> <hr/> <br/><br/>
+ <br/><br/><br/><br/>
 <div align="center"> 
   <h3 align="center">Contact with me. </h3>
   <a href="mailto:official.inno.fei.21@gmail.com">

@@ -62,14 +62,14 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=somnathkaushik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=somnathkaushik&theme=great-gatsby&show_icons=true&hide_border=false&count_private=false" alt="readme stats" />
 </div>
 
 <br>
 
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=somnathkaushik&theme=great-gatsby&hide_border=false" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=somnathkaushik&theme=great-gatsby&show_icons=true&hide_border=false&count_private=false" alt="readme stats" />
-  <br/>
+  
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somnathkaushik&theme=great-gatsby&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
 </div>
 

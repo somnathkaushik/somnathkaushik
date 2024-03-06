@@ -41,7 +41,9 @@
  
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrS-bCUO_UZgGQWvCLFNQ_E9qlWW0wOam-8IhSrt5nk6IHCWtS_vIkbX6S_7wHNcGrNuU&usqp=CAU"  />
+<!-- <img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrS-bCUO_UZgGQWvCLFNQ_E9qlWW0wOam-8IhSrt5nk6IHCWtS_vIkbX6S_7wHNcGrNuU&usqp=CAU"  /> -->
+
+<img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952y1plc12y62zhew9gf46zsm98tdtkck39sdmskk7h&ep=v1_gifs_search&rid=200w.gif&ct=g" />
 <div align="left">
     <img src="https://skillicons.dev/icons?i=java,c,python,html,css,javascript,react,vscode,github" />
     <img src="https://skillicons.dev/icons?i=,bootstrap,tailwindcss,nodejs,expressjs,mongodb,mysql" /><br>

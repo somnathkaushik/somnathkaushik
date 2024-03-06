@@ -31,7 +31,7 @@
 <h3 align="center">👩🏻‍💻 Innovative Artisan: </h3> Blending artistry with engineering, I've sculpted digital masterpieces with the precision of a sculptor, infusing my creations with beauty and functionality in equal measure. 🎨✨
 <br/>
 <h3 align="center">👩🏻‍💻 Eternal Learner: </h3> In the ever-changing landscape of technology, I embrace the spirit of curiosity and growth, constantly seeking new knowledge and skills to fuel my quest for mastery. 📚🌱
-<br/>
+<hr/>
 <h3 align="center">👩🏻‍💻 Visionary Dreamer: </h3> With eyes fixed on the horizon, I dream of a world where technology is not just a tool, but a force for positive change and transformation. Together, let's embark on this grand adventure and make our dreams a reality! 🌈✨
 
  </div>

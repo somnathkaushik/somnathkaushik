@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=somnathkaushik&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
@@ -119,14 +118,6 @@
 
 <br/>
 
-<h3 align="Center">🏆GitHub Trophies</h3>
-![](https://github-trophies.vercel.app/?username=somnathkaushik&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
 
 <h2 align="center">⚡Activity Graph </h2>
 

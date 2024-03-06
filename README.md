@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<h2 align="center"> 🌟 **Welcome to my digital realm!** 🌟</h2>
+<h2 align="center"> 🌟 Welcome to my digital realm! 🌟</h2>
 
 <h3 align="center">Hey there, fellow wanderer of the digital cosmos! 👋 I'm Somnath Kaushik, a spirited explorer navigating the boundless universe of technology with zeal and wonder. 🚀 </h3>
 

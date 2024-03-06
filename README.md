@@ -138,7 +138,7 @@
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-<img height='90' style='border:0px; height:64px;' src="./qr.jpg" border='0' alt='Buy Me a Coffee at ko-fi.com' /> 
+<img height='90' style='border:0px; height:90px;' src="./qr.jpg" border='0' alt='Buy Me a Coffee ' /> 
 <br/>
 <h3 align="center">Buy Me a Coffee</h3> 
 </div>

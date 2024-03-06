@@ -30,11 +30,7 @@
 </div>
 
  <hr/>
- <br/>
 
-
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
 
@@ -42,6 +38,7 @@
  
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <div align="left">
     <img src="https://skillicons.dev/icons?i=java,c,python,html,css,javascript,react,vscode,github" />
     <img src="https://skillicons.dev/icons?i=,bootstrap,tailwindcss,nodejs,expressjs,mongodb,mysql" /><br>

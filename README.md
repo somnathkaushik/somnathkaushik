@@ -10,7 +10,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">A passionate software developer from Mathura, UP (India)</h3>
+<h1 align="center">A passionate software developer from Mathura, UP (India)</h1>
 
 <br/>
 
@@ -18,21 +18,21 @@
 
 <h2 align="center"> 🌟 **Welcome to my digital realm!** 🌟</h2>
 
-Hey there, fellow wanderer of the digital cosmos! 👋 I'm Somnath Kaushik, a spirited explorer navigating the boundless universe of technology with zeal and wonder. 🚀
+<h3 align="center">Hey there, fellow wanderer of the digital cosmos! 👋 I'm Somnath Kaushik, a spirited explorer navigating the boundless universe of technology with zeal and wonder. 🚀 </h3>
 
-👩🏻‍💻 **Tech Trailblazer:** As a passionate seeker of technological wonders, I've ventured into the enchanted forests of programming, weaving spells of code with the elegance of a master magician. 💻✨
+<h3 align="center">👩🏻‍💻 **Tech Trailblazer:** </h3> As a passionate seeker of technological wonders, I've ventured into the enchanted forests of programming, weaving spells of code with the elegance of a master magician. 💻✨
 
-👩🏻‍💻 **Web Wizard:** With the flick of my wand (or rather, keyboard), I've conjured captivating web experiences, crafting intricate designs that dance with the rhythm of HTML, CSS, and JavaScript. 🎨🌐
+<h3 align="center">👩🏻‍💻 **Web Wizard:** </h3> With the flick of my wand (or rather, keyboard), I've conjured captivating web experiences, crafting intricate designs that dance with the rhythm of HTML, CSS, and JavaScript. 🎨🌐
 
-👩🏻‍💻 **Code Crusader:** Armed with the sword of logic and the shield of creativity, I've embarked on epic quests through the realms of Java, Python, and C/C++, vanquishing bugs and crafting elegant solutions to complex problems. ⚔️💡
+<h3 align="center">👩🏻‍💻 **Code Crusader:** </h3> Armed with the sword of logic and the shield of creativity, I've embarked on epic quests through the realms of Java, Python, and C/C++, vanquishing bugs and crafting elegant solutions to complex problems. ⚔️💡
 
-👩🏻‍💻 **Data Sorcerer:** Delving into the arcane arts of Data Structures and Algorithms, I've plumbed the depths of data with the finesse of a seasoned wizard, wielding my knowledge to unlock the secrets hidden within. 🔮📊
+<h3 align="center">👩🏻‍💻 **Data Sorcerer:** </h3> Delving into the arcane arts of Data Structures and Algorithms, I've plumbed the depths of data with the finesse of a seasoned wizard, wielding my knowledge to unlock the secrets hidden within. 🔮📊
 
-👩🏻‍💻 **Innovative Artisan:** Blending artistry with engineering, I've sculpted digital masterpieces with the precision of a sculptor, infusing my creations with beauty and functionality in equal measure. 🎨✨
+<h3 align="center">👩🏻‍💻 **Innovative Artisan:** </h3> Blending artistry with engineering, I've sculpted digital masterpieces with the precision of a sculptor, infusing my creations with beauty and functionality in equal measure. 🎨✨
 
-👩🏻‍💻 **Eternal Learner:** In the ever-changing landscape of technology, I embrace the spirit of curiosity and growth, constantly seeking new knowledge and skills to fuel my quest for mastery. 📚🌱
+<h3 align="center">👩🏻‍💻 **Eternal Learner:** </h3> In the ever-changing landscape of technology, I embrace the spirit of curiosity and growth, constantly seeking new knowledge and skills to fuel my quest for mastery. 📚🌱
 
-👩🏻‍💻 **Visionary Dreamer:** With eyes fixed on the horizon, I dream of a world where technology is not just a tool, but a force for positive change and transformation. Together, let's embark on this grand adventure and make our dreams a reality! 🌈✨
+<h3 align="center">👩🏻‍💻 **Visionary Dreamer:** </h3> With eyes fixed on the horizon, I dream of a world where technology is not just a tool, but a force for positive change and transformation. Together, let's embark on this grand adventure and make our dreams a reality! 🌈✨
 
  </div>
  

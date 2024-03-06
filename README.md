@@ -68,7 +68,7 @@
 <br>
 
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=somnathkaushik&theme=great-gatsby&hide_border=true&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=somnathkaushik&theme=great-gatsby&hide_border=false" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=somnathkaushik&theme=great-gatsby&show_icons=true&hide_border=false&count_private=false" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somnathkaushik&theme=great-gatsby&show_icons=true&hide_border=false&layout=compact" alt="top langs" />

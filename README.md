@@ -20,7 +20,7 @@
 
 <h3 align="center">Hey there, fellow wanderer of the digital cosmos! 👋 I'm Somnath Kaushik, a spirited explorer navigating the boundless universe of technology with zeal and wonder. 🚀 </h3>
 
-<h3 align="left">👩🏻‍💻 Tech Trailblazer: </h3> As a passionate seeker of technological wonders, I've ventured into the enchanted forests of programming, weaving spells of code with the elegance of a master magician. 💻✨
+<h3 >👩🏻‍💻 Tech Trailblazer: </h3> As a passionate seeker of technological wonders, I've ventured into the enchanted forests of programming, weaving spells of code with the elegance of a master magician. 💻✨
 
 <h3 align="left">👩🏻‍💻 Web Wizard: </h3> With the flick of my wand (or rather, keyboard), I've conjured captivating web experiences, crafting intricate designs that dance with the rhythm of HTML, CSS, and JavaScript. 🎨🌐
 

@@ -1,5 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=somnathkaushik.somnathkaushik" /> -->
+[![](https://visitcount.itsvg.in/api?id=somnathkaushik&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <img src="https://media.licdn.com/dms/image/D4D16AQGFoNNc8K7i0g/profile-displaybackgroundimage-shrink_350_1400/0/1689099337906?e=1715212800&v=beta&t=NgeYc6eWIebZQnTT_QkGu_RIjOq3FSp0SFJiPemxbSk" />
@@ -115,6 +116,15 @@
 
 <br/>
 
+<h3 align="Center">🏆GitHub Trophies</h3>
+![](https://github-trophies.vercel.app/?username=somnathkaushik&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
 <h2 align="center">⚡Activity Graph </h2>
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=somnathkaushik&bg_color=221d35&color=9f5dee&line=690763&point=24b742&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
@@ -129,6 +139,10 @@
 <h3 align="center">✍️ Random Dev Quote</h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<h3 align="center">😂Random Dev Meme</h3>
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 

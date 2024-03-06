@@ -78,9 +78,9 @@
 <h3 align="Center">Streaks</h3>
 <div align="center">
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somnathkaushik&theme=2077by&hide_border=false" height="180em"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somnathkaushik&theme=dracula&hide_border=false" height="180em"/>
   
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somnathkaushik&theme=2077&show_icons=true&hide_border=false&layout=compact" height="180em" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somnathkaushik&theme=dracula&show_icons=true&hide_border=false&layout=compact" height="180em" />
 
 </div>
 
